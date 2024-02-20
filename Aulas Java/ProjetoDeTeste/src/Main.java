@@ -6,7 +6,7 @@ public class Main {
        int velocidadeOnibus = 80;
        final double PI = 3.14;
 
-
+        System.out.printIn();
         System.out.println(velocidadeOnibus);
         System.out.println(PI);
 
